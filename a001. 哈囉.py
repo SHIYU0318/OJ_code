@@ -5,4 +5,4 @@
 比如：輸入字串 "world", 則請輸出 "hello, world"
 """
 s = input()
-print(f"hello,{s}")
+print(f"hello, {s}")
