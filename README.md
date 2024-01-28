@@ -1,5 +1,3 @@
-# ZJ-Code
-
-之前用Python刷ZJ水題
-已開始學C++ & 演算法
-所以不再花時間在這了
+I first used python to solve simple grammar problems of Zero Judge.\
+Now I have started to learn C++ data structure and algorithm,\
+and put the competition program code into another new repository [here](https://github.com/SHIYU0318/CP-Code).
